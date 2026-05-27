@@ -1,0 +1,6 @@
+{
+  "name": "CineVortex",
+  "description": "Enter the Future of Entertainment - Premium OTT & Movie Streaming Experience UI with futuristic glowing aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
